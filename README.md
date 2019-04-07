@@ -35,4 +35,14 @@ npm run watch
 php artisan serve
 ```
 
-# CONGLATURATION!!!
+# Version
+
+------------------------
+| Packages   | Version |
+|----------------------|
+| Laravel    | 5.8.10  |
+| Vue        | 2.5.17  |
+| VueX       | 3.1.0   |
+| Vuetify    | 1.5.9   |
+| Vue-router | 3.0.2   |
+------------------------
