@@ -7,9 +7,17 @@ Starter pack for Laravel with __Vue + VueX + Vue-router + Vuetify__
 
 1. Clone repository git clone https://github.com/KamiMeow/laravel-vuetify-starterpack.git
 
-2. __cp__ .env.example .env
-Then open .env file and put necessary credentials.
-Make sure to put proper APP_URL because it will be use in file manager module.
+2. Next step
+
+In UNIX
+```
+cp .env.example .env
+```
+
+cmd
+```
+copy .env.example .env
+```
 
 3. Run your console or cmd and write in project directory:
 
