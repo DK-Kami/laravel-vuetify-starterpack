@@ -23,13 +23,19 @@ composer install
 npm install
 ```
 
-5. And...
+5. And add key:
+
+```
+php artisan key:generate
+```
+
+6. And...
 
 ```
 npm run watch
 ```
 
-6. Run your twin console or cmd and write in project directory:
+7. Run your twin console or cmd and write in project directory:
 
 ```
 php artisan serve
